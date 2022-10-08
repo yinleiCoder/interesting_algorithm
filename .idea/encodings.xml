@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01.select_sort.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02.insert_sort.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/03.merge_sort.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/04.quick_sort.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/05.max_heap.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/06.binary_search.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/07.binary_search_tree.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/08.union_find.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/09.graph_theory.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/HelloWorldC/01.data_types.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/HelloWorldC/02.variable.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/HelloWorldC/03.constant.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/HelloWorldC/04.operators.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/HelloWorldC/data/nole_gbk.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/HelloWorldC/test_c.c" charset="GBK" />
+  </component>
+</project>
